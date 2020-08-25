@@ -1,6 +1,6 @@
     @include("layouts.app")
-                    
 
+ 
     @section('content')
         
     <body>
