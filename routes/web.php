@@ -29,7 +29,7 @@ Route::get('/informatica', function(){
     return view ('informatica');
 });
 
-Route::get('/audio_video', function(){
+Route::get('/audio-video', function(){
     return view ('audio_video');
 });
 
@@ -37,12 +37,13 @@ Route::get('/soporte', function(){
     return view ('soporte');
 });
 
-Route::get('/donde_comprar', function(){
-    return view ('donde_comprar');
+Route::get('/donde-comprar', function(){
+    return view ('donde-comprar');
 });
 
 
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
 
