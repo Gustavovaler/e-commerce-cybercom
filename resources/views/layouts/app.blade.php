@@ -28,22 +28,22 @@
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Android</a>
+            <a class="nav-link" href="/android">Android</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Iphone</a>
+            <a class="nav-link" href="/iphone">Iphone</a>
           </li>    
           <li class="nav-item">
-            <a class="nav-link" href="#">Informatica</a>
+            <a class="nav-link" href="/informatica">Informatica</a>
           </li>  
           <li class="nav-item">
-            <a class="nav-link" href="#">Audio y video</a>
+            <a class="nav-link" href="/audio-video">Audio y video</a>
           </li> 
           <li class="nav-item">
-            <a class="nav-link" href="#">Soporte</a>
+            <a class="nav-link" href="/soporte">Soporte</a>
           </li>   
           <li class="nav-item">
-            <a class="nav-link" href="#">Donde comprar</a>
+            <a class="nav-link" href="/donde-comprar">Donde comprar</a>
           </li>   
         </ul>
         <form class="form-inline my-2 my-lg-0">
