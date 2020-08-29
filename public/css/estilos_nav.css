@@ -1,0 +1,19 @@
+.nuestra{
+
+    background-color: #000000CC !important;
+    height: 45px;
+}
+
+.nav-item{
+
+    margin: 25px;
+}
+
+a{
+    font-size: 16px;
+    font-weight: 100;
+}
+
+a:hover{
+    color: red !important;
+}
